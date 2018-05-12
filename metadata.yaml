@@ -1,0 +1,26 @@
+_repo: '----_25376'
+_version: 0.1.0
+alternative_title: San xia wu yi
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shi, Yukun, active 19th century
+    alias: 石玉昆
+    gutenberg_agent_id: '31288'
+    url: http://www.gutenberg.org/2009/agents/31288
+description: ''
+gutenberg_issued: '2008-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25376'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Bao, Zheng, 999-1062 -- Fiction'
+title: 三俠五義
+url: http://www.gutenberg.org/ebooks/25376
