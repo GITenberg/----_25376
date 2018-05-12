@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31288'
     url: http://www.gutenberg.org/2009/agents/31288
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25376#----
 gutenberg_issued: '2008-05-07'
 gutenberg_type: Text
 identifiers:
